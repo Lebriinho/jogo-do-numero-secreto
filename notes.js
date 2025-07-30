@@ -22,7 +22,7 @@ git remote add origin git@github.com:seunomedeusuario/seu-repositorio.git
 
 6- ENVIAR AS MUDANÇAS PARA O REPOSITÓRIO REMOTO
 
-git push
+git push -u origin main
 */
  
 /* PARA CADASTRAR EMAIL E NOME DE USUARIO!!
